@@ -1,4 +1,14 @@
+body {
+        font-size: 150%;
+    }
+
 img {
     width: 100%;
     height: auto;
+}
+
+@media (min-width: 1024px) {
+    body {
+        font-size: 200%;
+    }
 }
