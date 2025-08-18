@@ -1,9 +1,12 @@
 body {
-        font-size: 150%;
+        font-size: 50%;
     }
+
 a {
-    font-size: 200%;
+    font-size: 2%;
 }
+
+
 
 img {
     width: 100%;
@@ -14,5 +17,13 @@ img {
     body {
         font-size: 200%;
     }
+
+
+img {
+    width: 25%;
+    height: auto;
+}
+
+
 }
 
