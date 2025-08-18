@@ -1,5 +1,5 @@
 body {
-        font-size: 50%;
+        font-size: 40%;
     }
 
 a {
@@ -15,7 +15,7 @@ img {
 
 @media (min-width: 1024px) {
     body {
-        font-size: 200%;
+        font-size: 100%;
     }
 
 
@@ -26,4 +26,7 @@ img {
 
 
 }
+
+
+
 
